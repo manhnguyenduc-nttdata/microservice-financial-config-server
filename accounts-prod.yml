@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Golden Bank accounts related Production APIs!"
+  message: "Welcome to Golden Bank accounts related Production APIs"
   contactDetails:
     name: "Nguyen Duc Manh"
     email: "{cipher}23c807fe69cbf0211ebd279a8555e3027b2f3aaa3fb85660dd3fb04232a564397a09f6da31b26f40b50573a8bdb15717"
