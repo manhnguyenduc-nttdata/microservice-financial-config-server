@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Golden Bank accounts related Production APIs"
+  contactDetails:
+    name: "Nguyen Duc Manh"
+    email: "manhnguyenduc@gmail.com"
+  onCallSupport:
+    - (111) 123-4567
+    - (111) 234-5678
